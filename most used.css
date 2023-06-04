@@ -1,0 +1,29 @@
+
+body{
+    text-align: center;
+    background-color: #370617;
+}
+.title{
+    text-align: center;
+    font-family: cursive;
+    font-size: xx-large;
+    color: red;
+    text-shadow: 1px 3px gray;
+}
+p{
+    text-align: center;
+    font-family: cursive;
+    font-size: xx-large;
+    text-shadow: 1px 3px gray;
+    color: red;
+}
+table{
+    border-color: silver;
+}
+li{
+    font-size: large;
+    color: gold;
+}
+a{
+    color: silver;
+}
